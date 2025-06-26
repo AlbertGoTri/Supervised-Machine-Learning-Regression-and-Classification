@@ -19,25 +19,6 @@ This course covers:
 
 ---
 
-## 📁 Repository Structure
-
-```bash
-.
-├── Week1_Linear_Regression/
-│   └── linear_regression_notebooks.ipynb
-├── Week2_Logistic_Regression/
-│   └── logistic_regression_exercises.ipynb
-├── Week3_Metrics_And_Evaluation/
-│   └── evaluation_metrics.ipynb
-├── Week4_Sklearn_Pipelines/
-│   └── sklearn_pipeline_project.ipynb
-└── README.md
-```
-
-> 📝 Each notebook includes detailed explanations, comments, and visualizations to reinforce learning.
-
----
-
 ## 🚀 Key Technologies
 
 - Python 3.x
@@ -57,23 +38,10 @@ This course covers:
 
 ---
 
-## 📌 How to Run
-
-Clone this repository and open any notebook with Jupyter or VS Code:
-
-```bash
-git clone https://github.com/your-username/supervised-ml-course.git
-cd supervised-ml-course
-jupyter notebook
-```
-
----
-
 ## 📖 Certificate
 
 I successfully completed this course! 🏆  
 ![Coursera Certificate](https://your-certificate-image-or-link.com)  
-*Or: Add your certificate link or badge here.*
 
 ---
 
@@ -85,6 +53,6 @@ Thanks to [Andrew Ng](https://www.andrewng.org/) and the entire [DeepLearning.AI
 
 ## 📬 Contact
 
-If you have any questions or just want to connect, feel free to reach out via [LinkedIn](https://www.linkedin.com/) or open an issue in this repo.
+If you have any questions or just want to connect, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/albertgotri/) or open an issue in this repo.
 
 ---
