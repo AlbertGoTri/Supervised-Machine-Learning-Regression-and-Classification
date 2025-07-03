@@ -41,7 +41,7 @@ This course covers:
 ## 📖 Certificate
 
 I successfully completed this course! 🏆  
-![Coursera Certificate](https://your-certificate-image-or-link.com)  
+![Coursera Certificate](https://www.coursera.org/account/accomplishments/verify/026TF1MGD5BW)  
 
 ---
 
